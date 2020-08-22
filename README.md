@@ -21,7 +21,7 @@ plugins:
     - markdownmermaid
 
 extra_javascript:
-    - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
 ```
 
 > **Note:** Don't forget to include the mermaid.min.js (local or remotely) in your `mkdocs.yml`
